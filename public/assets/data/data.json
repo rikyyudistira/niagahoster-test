@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Bayi",
+    "originalPrice": 19000,
+    "discountPercentage": 10,
+    "bestSeller": false,
+    "userRegistered": 938,
+    "metadata": {
+        "resourcerPower": 0.5,
+        "diskSpace": 500,
+        "bandwidth": "Unlimited",
+        "databases": "Unlimited",
+        "domain": 1,
+        "backup": "Instant",
+        "ssl": "Unlimited"
+      }
+  },
+  {
+    "title": "Pelajar",
+    "originalPrice": 46900,
+    "discountPercentage": 10,
+    "bestSeller": false,
+    "userRegistered": 4169,
+    "metadata": {
+        "resourcerPower": 1,
+        "diskSpace": "Unlimited",
+        "bandwidth": "Unlimited",
+        "pop3": "Unlimited",
+        "databases": "Unlimited",
+        "addonDomains": 1,
+        "backup": "Instant",
+        "freeDomain": "Domain Gratis",
+        "ssl": "Unlimited"
+      }
+  },
+  {
+    "title": "Personal",
+    "originalPrice": 58900,
+    "discountPercentage": 10,
+    "bestSeller": true,
+    "userRegistered": 10017,
+    "metadata": {
+        "resourcerPower": 2,
+        "diskSpace": "Unlimited",
+        "bandwidth": "Unlimited",
+        "pop3": "Unlimited",
+        "databases": "Unlimited",
+        "addonDomains": 1,
+        "backup": "Instant",
+        "freeDomain": "Domain Gratis",
+        "ssl": "Unlimited",
+        "nameServer": "Privat",
+        "mailProtection": "SpamAssasin"
+      }
+  },
+  {
+    "title": "Bisnis",
+    "originalPrice": 109900,
+    "discountPercentage": 40,
+    "bestSeller": false,
+    "userRegistered": 3552,
+    "metadata": {
+        "resourcerPower": 3,
+        "diskSpace": "Unlimited",
+        "bandwidth": "Unlimited",
+        "pop3": "Unlimited",
+        "databases": "Unlimited",
+        "addonDomains": 1,
+        "backup": "Instant",
+        "freeDomain": "Domain Gratis",
+        "ssl": "Unlimited",
+        "nameServer": "Privat",
+        "supportService": true,
+        "mailProtection": "SpamExpert"
+      }
+  }
+  
+]
